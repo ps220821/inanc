@@ -1,0 +1,15 @@
+C:\Users\Inanc\Desktop\school\project 2\Fietswinkel\bin\Debug\Fietswinkel.exe.config
+C:\Users\Inanc\Desktop\school\project 2\Fietswinkel\bin\Debug\Fietswinkel.exe
+C:\Users\Inanc\Desktop\school\project 2\Fietswinkel\bin\Debug\Fietswinkel.pdb
+C:\Users\Inanc\Desktop\school\project 2\Fietswinkel\obj\Debug\Fietswinkel.csprojAssemblyReference.cache
+C:\Users\Inanc\Desktop\school\project 2\Fietswinkel\obj\Debug\MainWindow.g.cs
+C:\Users\Inanc\Desktop\school\project 2\Fietswinkel\obj\Debug\App.g.cs
+C:\Users\Inanc\Desktop\school\project 2\Fietswinkel\obj\Debug\Fietswinkel_MarkupCompile.cache
+C:\Users\Inanc\Desktop\school\project 2\Fietswinkel\obj\Debug\Fietswinkel_MarkupCompile.lref
+C:\Users\Inanc\Desktop\school\project 2\Fietswinkel\obj\Debug\MainWindow.baml
+C:\Users\Inanc\Desktop\school\project 2\Fietswinkel\obj\Debug\Fietswinkel.g.resources
+C:\Users\Inanc\Desktop\school\project 2\Fietswinkel\obj\Debug\Fietswinkel.Properties.Resources.resources
+C:\Users\Inanc\Desktop\school\project 2\Fietswinkel\obj\Debug\Fietswinkel.csproj.GenerateResource.cache
+C:\Users\Inanc\Desktop\school\project 2\Fietswinkel\obj\Debug\Fietswinkel.csproj.CoreCompileInputs.cache
+C:\Users\Inanc\Desktop\school\project 2\Fietswinkel\obj\Debug\Fietswinkel.exe
+C:\Users\Inanc\Desktop\school\project 2\Fietswinkel\obj\Debug\Fietswinkel.pdb

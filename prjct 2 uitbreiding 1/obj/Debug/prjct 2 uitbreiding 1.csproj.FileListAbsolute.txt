@@ -1,0 +1,15 @@
+C:\Users\Inanc\Desktop\school\project 2\prjct 2 uitbreiding 1\bin\Debug\prjct 2 uitbreiding 1.exe.config
+C:\Users\Inanc\Desktop\school\project 2\prjct 2 uitbreiding 1\bin\Debug\prjct 2 uitbreiding 1.exe
+C:\Users\Inanc\Desktop\school\project 2\prjct 2 uitbreiding 1\bin\Debug\prjct 2 uitbreiding 1.pdb
+C:\Users\Inanc\Desktop\school\project 2\prjct 2 uitbreiding 1\obj\Debug\prjct 2 uitbreiding 1.csprojAssemblyReference.cache
+C:\Users\Inanc\Desktop\school\project 2\prjct 2 uitbreiding 1\obj\Debug\MainWindow.g.cs
+C:\Users\Inanc\Desktop\school\project 2\prjct 2 uitbreiding 1\obj\Debug\App.g.cs
+C:\Users\Inanc\Desktop\school\project 2\prjct 2 uitbreiding 1\obj\Debug\prjct 2 uitbreiding 1_MarkupCompile.cache
+C:\Users\Inanc\Desktop\school\project 2\prjct 2 uitbreiding 1\obj\Debug\prjct 2 uitbreiding 1_MarkupCompile.lref
+C:\Users\Inanc\Desktop\school\project 2\prjct 2 uitbreiding 1\obj\Debug\MainWindow.baml
+C:\Users\Inanc\Desktop\school\project 2\prjct 2 uitbreiding 1\obj\Debug\prjct 2 uitbreiding 1.g.resources
+C:\Users\Inanc\Desktop\school\project 2\prjct 2 uitbreiding 1\obj\Debug\prjct_2_uitbreiding_1.Properties.Resources.resources
+C:\Users\Inanc\Desktop\school\project 2\prjct 2 uitbreiding 1\obj\Debug\prjct 2 uitbreiding 1.csproj.GenerateResource.cache
+C:\Users\Inanc\Desktop\school\project 2\prjct 2 uitbreiding 1\obj\Debug\prjct 2 uitbreiding 1.csproj.CoreCompileInputs.cache
+C:\Users\Inanc\Desktop\school\project 2\prjct 2 uitbreiding 1\obj\Debug\prjct 2 uitbreiding 1.exe
+C:\Users\Inanc\Desktop\school\project 2\prjct 2 uitbreiding 1\obj\Debug\prjct 2 uitbreiding 1.pdb
